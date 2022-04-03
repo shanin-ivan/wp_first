@@ -3,6 +3,7 @@
 
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
+    
 	<title>
 		<?php echo wp_get_document_title(); ?>
 	</title>
